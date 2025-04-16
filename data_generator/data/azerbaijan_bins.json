@@ -1,0 +1,437 @@
+{
+  "Kapital Bank": {
+    "VISA": {
+      "CLASSIC": [416973, 417212, 417358, 416974, 426087, 427276],
+      "GOLD": [416975, 417358],
+      "PLATINUM": [417358, 523915],
+      "INFINITE": [415402, 464149],
+      "BUSINESS": [417211],
+      "ELECTRON": [416974],
+      "DEBIT": [417211, 416973, 416974, 427276, 510307]
+    },
+    "MASTERCARD": {
+      "STANDARD": [535115, 540408],
+      "DEBIT": [510307, 676867],
+      "DEBIT STANDARD": [535115]
+    },
+    "MAESTRO": {
+      "DEBIT": [676867]
+    }
+  },
+  "International Bank of Azerbaijan": {
+    "VISA": {
+      "CLASSIC": [410511, 411721, 412720, 412721, 429961, 461386],
+      "GOLD": [429962, 534191],
+      "PLATINUM": [438542, 531046],
+      "INFINITE": [402116],
+      "BUSINESS": [427746],
+      "ELECTRON": [411722, 412722, 429960, 430170, 461371],
+      "DEBIT": [412720, 427745, 450037, 476019, 476872]
+    },
+    "MASTERCARD": {
+      "STANDARD": [524810, 525234, 528702, 529019, 530099, 532803, 533613, 534032, 542559],
+      "GOLD": [525710, 528702, 533613, 541925, 541947, 542559],
+      "PLATINUM": [521839, 524389, 524942, 531846],
+      "WORLD": [530099, 544323, 545230, 559646, 559651],
+      "WORLD BLACK": [523960, 538200],
+      "BUSINESS": [427745, 547507, 547569, 547764, 558390],
+      "DEBIT": [516751, 516752, 516753, 535580, 537540]
+    },
+    "MAESTRO": {
+      "DEBIT": [670570, 670905, 671173, 676261, 676316, 676614, 677264, 677316, 677615, 677645]
+    },
+    "AMERICAN EXPRESS": {
+      "PERSONAL GREEN CHARGE": [375119]
+    }
+  },
+  "Pasha Bank": {
+    "VISA": {
+      "CLASSIC": [486020],
+      "GOLD": [486021],
+      "PLATINUM": [486022],
+      "INFINITE": [464635],
+      "BUSINESS": [471321, 486023],
+      "ELECTRON": [486023],
+      "DEBIT": [418249, 486024, 486023]
+    },
+    "MASTERCARD": {
+      "STANDARD": [530095],
+      "GOLD": [522897, 541945],
+      "PLATINUM": [540269],
+      "WORLD": [531535],
+      "BUSINESS": [547224],
+      "DEBIT": [510306, 522897, 537556]
+    },
+    "MAESTRO": {
+      "DEBIT": [677614]
+    }
+  },
+  "AccessBank": {
+    "VISA": {
+      "CLASSIC": [426863],
+      "GOLD": [426864],
+      "PLATINUM": [428652, 430296],
+      "INFINITE": [430296],
+      "BUSINESS": [428653],
+      "ELECTRON": [426865]
+    },
+    "MASTERCARD": {
+      "STANDARD": [529855],
+      "PLATINUM": [533573],
+      "WORLD BLACK EDITION": [530499],
+      "UNEMBOSSED": [537462]
+    },
+    "MAESTRO": {
+      "STANDARD": [670993]
+    }
+  },
+  "Bank Respublika": {
+    "VISA": {
+      "CLASSIC": [424448, 405623],
+      "GOLD": [424449],
+      "PLATINUM": [424450, 462816],
+      "INFINITE": [462816],
+      "BUSINESS": [446512, 446513],
+      "ELECTRON": [424451],
+      "DEBIT": [405623, 446513]
+    },
+    "MASTERCARD": {
+      "STANDARD": [524748, 533599, 541735],
+      "GOLD": [524748],
+      "PLATINUM": [533599, 552229],
+      "WORLD": [523522, 530181],
+      "WORLD BLACK EDITION": [547453],
+      "BUSINESS": [552675],
+      "PREPAID RELOADABLE": [529525]
+    },
+    "MAESTRO": {
+      "DEBIT": [676991]
+    }
+  },
+  "UniBank": {
+    "VISA": {
+      "CLASSIC": [402865, 409858, 458772],
+      "GOLD": [409859],
+      "PLATINUM": [409809],
+      "INFINITE": [486089],
+      "BUSINESS": [409860, 458772],
+      "ELECTRON": [409861],
+      "DEBIT": [409858, 409859, 409860, 409861, 409989, 458772, 459254]
+    },
+    "MASTERCARD": {
+      "STANDARD": [511776, 512093, 516935],
+      "GOLD": [512768, 524375],
+      "PLATINUM": [522953],
+      "WORLD": [529254],
+      "BUSINESS": [528615]
+    },
+    "MAESTRO": {
+      "DEBIT": [677249]
+    }
+  },
+  "Rabitabank": {
+    "VISA": {
+      "CLASSIC": [418980],
+      "GOLD": [418981],
+      "ELECTRON": [418982],
+      "DEBIT": [418982, 418983]
+    },
+    "MASTERCARD": {
+      "STANDARD": [524811, 535464, 540774],
+      "GOLD": [525711, 540844],
+      "PLATINUM": [526163],
+      "BUSINESS": [547559]
+    },
+    "MAESTRO": {
+      "DEBIT": [676379, 677265]
+    }
+  },
+  "Xalq Bank": {
+    "VISA": {
+      "CLASSIC": [419841],
+      "GOLD": [419842],
+      "PLATINUM": [419843],
+      "BUSINESS": [419844],
+      "ELECTRON": [419845],
+      "DEBIT": [419845, 419846]
+    },
+    "MASTERCARD": {
+      "STANDARD": [516974, 539893],
+      "GOLD": [548762],
+      "WORLD BLACK EDITION": [548304],
+      "BUSINESS": [553585]
+    },
+    "MAESTRO": {
+      "DEBIT": [677323]
+    }
+  },
+  "DemirBank": {
+    "VISA": {
+      "CLASSIC": [410661, 415460, 419281, 420459, 481785],
+      "GOLD": [410660, 465493],
+      "PLATINUM": [419281, 421070, 531684],
+      "INFINITE": [421070],
+      "BUSINESS": [419282, 419283, 457838],
+      "ELECTRON": [410662, 430170, 465492],
+      "DEBIT": [415460, 420459, 465473, 465492]
+    },
+    "MASTERCARD": {
+      "STANDARD": [522572, 522758, 528039, 534803, 541746],
+      "GOLD": [522734, 541673, 550153],
+      "PLATINUM": [524349, 530224, 531487],
+      "WORLD": [539279],
+      "BUSINESS": [535491, 558537],
+      "DEBIT STANDARD": [514432, 535287, 535294],
+      "DEBIT GOLD": [535295],
+      "DEBIT PLATINUM": [535492]
+    },
+    "MAESTRO": {
+      "DEBIT": [670677, 676393, 677178, 677385, 677700, 679836]
+    }
+  },
+  "Bank of Azerbaijan": {
+    "VISA": {
+      "CLASSIC": [427857],
+      "GOLD": [427858, 456806],
+      "PLATINUM": [420553],
+      "ELECTRON": [427859],
+      "DEBIT": [427857, 427858, 427859, 427860]
+    },
+    "MASTERCARD": {
+      "STANDARD": [542671],
+      "PLATINUM": [524313],
+      "BUSINESS": [558641],
+      "PREPAID": [533215]
+    },
+    "MAESTRO": {
+      "DEBIT": [670836]
+    }
+  },
+  "Azerigazbank": {
+    "VISA": {
+      "CLASSIC": [450564, 458772, 484705, 484707],
+      "GOLD": [444053, 450564, 484706],
+      "PLATINUM": [450564],
+      "INFINITE": [444053],
+      "BUSINESS": [444807],
+      "ELECTRON": [447857, 484707],
+      "DEBIT": [444807, 458772, 484705, 484706, 484707, 489024]
+    },
+    "MASTERCARD": {
+      "STANDARD": [512567, 550465],
+      "GOLD": [550466],
+      "PLATINUM": [552005],
+      "WORLD": [514919, 545221],
+      "BUSINESS": [558496]
+    },
+    "MAESTRO": {
+      "DEBIT": [676408]
+    }
+  },
+  "Bank Technique": {
+    "VISA": {
+      "BUSINESS": [446677]
+    },
+    "MASTERCARD": {
+      "PLATINUM": [522712],
+      "BUSINESS": [446677, 559278]
+    },
+    "MAESTRO": {
+      "DEBIT": [677362]
+    }
+  },
+  "Bank of Baku": {
+    "VISA": {
+      "CLASSIC": [420382],
+      "GOLD": [420383],
+      "INFINITE": [470448],
+      "ELECTRON": [420384],
+      "DEBIT": [420384, 420385]
+    },
+    "MASTERCARD": {
+      "STANDARD": [512816, 515819, 520938, 531599],
+      "GOLD": [515819, 520987],
+      "BUSINESS": [552959]
+    },
+    "MAESTRO": {
+      "DEBIT": [671181, 677092]
+    }
+  },
+  "Azer-Turk Bank": {
+    "MASTERCARD": {
+      "STANDARD": [537439],
+      "GOLD": [541745],
+      "PLATINUM": [521367],
+      "WORLD": [530170],
+      "WORLD BLACK EDITION": [547271],
+      "BUSINESS": [547271, 553598, 557941],
+      "PREPAID RELOADABLE": [530467]
+    },
+    "MAESTRO": {
+      "DEBIT": [677410]
+    }
+  },
+  "Bank Standard": {
+    "VISA": {
+      "CLASSIC": [435160, 476846],
+      "GOLD": [476848],
+      "PLATINUM": [494155],
+      "BUSINESS": [427317, 476845],
+      "ELECTRON": [476847, 478796],
+      "DEBIT": [412939, 427317, 478701, 478702, 494155]
+    },
+    "MASTERCARD": {
+      "STANDARD": [516816, 518766, 545704],
+      "GOLD": [545705],
+      "PLATINUM": [522957],
+      "BUSINESS": [558393],
+      "PREPAID": [525492]
+    },
+    "MAESTRO": {
+      "STANDARD": [676289]
+    }
+  },
+  "Atabank": {
+    "VISA": {
+      "CLASSIC": [401353, 413859],
+      "GOLD": [401888, 413858],
+      "PLATINUM": [401898],
+      "INFINITE": [401891],
+      "BUSINESS": [401873, 430276],
+      "ELECTRON": [401769, 413860],
+      "DEBIT": [401769, 413860]
+    },
+    "MASTERCARD": {
+      "STANDARD": [522668],
+      "GOLD": [522667],
+      "PLATINUM": [522671]
+    },
+    "MAESTRO": {
+      "DEBIT": [670871]
+    }
+  },
+  "Expressbank": {
+    "VISA": {
+      "CLASSIC": [472492],
+      "GOLD": [472493],
+      "PLATINUM": [472494],
+      "ELECTRON": [472495],
+      "DEBIT": [472495, 472496]
+    },
+    "MASTERCARD": {
+      "STANDARD": [549236],
+      "GOLD": [549868],
+      "PLATINUM": [550578]
+    },
+    "MAESTRO": {
+      "DEBIT": [670648]
+    }
+  },
+  "Royalbank": {
+    "VISA": {
+      "CLASSIC": [420370, 420371, 422643, 431256, 432089, 447854],
+      "GOLD": [447852, 542067],
+      "PLATINUM": [539722],
+      "INFINITE": [400112],
+      "BUSINESS": [447853],
+      "ELECTRON": [420370, 420371, 431256],
+      "DEBIT": [422643, 431256, 447854]
+    },
+    "MASTERCARD": {
+      "STANDARD": [530781],
+      "WORLD": [530224, 530407],
+      "BUSINESS": [547692]
+    },
+    "MAESTRO": {
+      "STANDARD": [677631]
+    }
+  },
+  "YapiKredi Bank": {
+    "VISA": [],
+    "MASTERCARD": {
+      "STANDARD": [520656, 536238, 536239],
+      "GOLD": [512435, 550222],
+      "PLATINUM": [550358],
+      "BUSINESS": [552706, 558649],
+      "UNEMBOSSED": [516823]
+    },
+    "MAESTRO": {
+      "DEBIT": [676994]
+    }
+  },
+  "AFB Bank": {
+    "VISA": {
+      "CLASSIC": [488940],
+      "GOLD": [488941],
+      "PLATINUM": [488942, 546661],
+      "INFINITE": [488943],
+      "BUSINESS": [488944, 547710],
+      "ELECTRON": [488945],
+      "DEBIT": [488945, 488946]
+    },
+    "MASTERCARD": {
+      "STANDARD": [516970, 544344],
+      "GOLD": [516973, 545074],
+      "PLATINUM": [516972, 546661],
+      "BUSINESS": [547710],
+      "PREPAID RELOADABLE": [538988]
+    },
+    "MAESTRO": {
+      "DEBIT": [670532]
+    }
+  },
+  "Technikabank": {
+    "VISA": {
+      "CLASSIC": [411783, 417218, 458586],
+      "GOLD": [400064, 411783],
+      "PLATINUM": [400064],
+      "ELECTRON": [411785],
+      "DEBIT": [411784, 411785]
+    },
+    "MASTERCARD": {
+      "STANDARD": [518692],
+      "GOLD": [518879]
+    }
+  },
+  "AzerPost": {
+    "MASTERCARD": {
+      "STANDARD": [519362, 532803],
+      "GOLD": [515860],
+      "PLATINUM": [511661]
+    },
+    "MAESTRO": {
+      "DEBIT": [670675]
+    }
+  },
+  "Azerbaijan Industry Bank": {
+    "VISA": {
+      "CLASSIC": [402118, 419841, 447855],
+      "GOLD": [447856],
+      "PLATINUM": [400624],
+      "INFINITE": [417061],
+      "BUSINESS": [413436, 419844, 447856],
+      "ELECTRON": [447857],
+      "DEBIT": [447857, 447858]
+    }
+  },
+  "Parabank": {
+    "VISA": {
+      "CLASSIC": [444682, 468539],
+      "GOLD": [444683],
+      "PLATINUM": [445126],
+      "INFINITE": [445127],
+      "BUSINESS": [486350],
+      "ELECTRON": [444684, 468539],
+      "DEBIT": [443889, 444684, 468539]
+    }
+  },
+  "VTB Bank": {
+    "VISA": {
+      "CLASSIC": [465491],
+      "GOLD": [465493],
+      "PLATINUM": [486317],
+      "ELECTRON": [465492],
+      "DEBIT": [465473, 465492]
+    }
+  }
+}
